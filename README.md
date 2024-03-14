@@ -28,8 +28,8 @@ N/A
 
 ## Authors
 
-Ronny
-der.ronny@gmx.net
+* Ronny
+	* der.ronny@gmx.net
 
 ## Version History
 
@@ -38,4 +38,4 @@ der.ronny@gmx.net
 
 ## License
 
-N/A
+Free
